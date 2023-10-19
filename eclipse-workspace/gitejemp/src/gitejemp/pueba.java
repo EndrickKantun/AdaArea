@@ -7,6 +7,8 @@ public class pueba {
 		System.out.println("hola");
 		
 		String nombre="Endrick";
+		
+		System.out.println(nombre);
 	}
 
 }
